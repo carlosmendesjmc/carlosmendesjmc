@@ -2,7 +2,7 @@
 
 - 🔭 Buscando Estágio em Backend, Java | SpringBoot | Python
 - 🌱 Estudando Java com SpringBoot
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: He/His
 - 📫 Contate-me para mais informações
 
 <div style="display: inline_block"><br>
