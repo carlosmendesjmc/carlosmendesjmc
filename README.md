@@ -17,3 +17,30 @@
   <a href = "mailto:cajosecarlosmendesdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josecarlosmendesdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<!-- Linguagem mais usadas -->
+<div>
+  ### Demo
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendesjmc)
+
+*   Compact layout
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendesjmc\&layout=compact)
+
+*   Donut Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendesjmc\&layout=donut)](https://github.com/carlosmendesjmc/github-readme-stats)
+
+*   Donut Vertical Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendesjmc\&layout=donut-vertical)](https://github.com/carlosmendesjmc/github-readme-stats)
+
+*   Pie Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendesjmc\&layout=pie)](https://github.com/carlosmendesjmc/github-readme-stats)
+
+*   Hidden progress bars
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendesjmc\&hide_progress=true)
+
+</div>
