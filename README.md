@@ -1,6 +1,6 @@
 ## Hi guys, I'm José Carlos 😀👋
 
-- 🔭 Buscando Estágio em Backend, Java | SpringBoot | Python
+- 🔭 Buscando | Estágio | Backend | Java | SpringBoot 
 - 🌱 Estudando Java com SpringBoot | React 
 - 😄 Pronouns: He/His
 - 📫 Contate-me para mais informações
