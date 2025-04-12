@@ -1,7 +1,7 @@
 ## Hi guys, I'm José Carlos 😀👋
 
 - 🔭 Buscando Vaga de Analista Jr | Backend | Python | Java | SpringBoot 
-- 🌱 Estudando Java com SpringBoot | React 
+- 🌱 Estudando...
 - 😄 Pronouns: He/His
 - 📫 Contate-me para mais informações
 
