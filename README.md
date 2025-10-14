@@ -1,6 +1,6 @@
 ## Hi guys, I'm José Carlos 😀👋
 
-- 🔭 Buscando Vaga de Analista Jr | Backend | Python | Java | SpringBoot 
+- 🔭 Dados | Data Warehouse | Business Intelligence | PLSQL | ETL | Inteligência Artificial (MBA) | Transição de Carreira em Tecnologia
 - 🌱 Estudando...
 - 😄 Pronouns: He/His
 - 📫 email: cajosecarlosmendesdasilva@gmail.com
