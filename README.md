@@ -1,6 +1,6 @@
 ## Hi guys, I'm José Carlos 😀👋
 
-- 🔭 Dados | Data Warehouse | Business Intelligence | PLSQL | ETL | Inteligência Artificial (MBA) | Transição de Carreira em Tecnologia
+- 🔭 Desenvolvedor Mobile Android Júnior | Kotlin | Android Studio | Git | APIs REST
 - 🌱 Estudando...
 - 😄 Pronouns: He/His
 - 📫 email: cajosecarlosmendesdasilva@gmail.com
