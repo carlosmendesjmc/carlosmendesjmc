@@ -1,8 +1,16 @@
 ## Hi guys, I'm José Carlos 😀👋
 
-- 🔭 Desenvolvedor Mobile Android Júnior | Kotlin | Android Studio | Git | APIs REST
-- 🌱 Estudando...
-- 😄 Pronouns: He/His
+Sou Desenvolvedor Android com formação em Análise e Desenvolvimento de Sistemas e direciono minha carreira para o desenvolvimento de aplicações Android nativas utilizando Kotlin, Android Studio e Android SDK.
+
+ 
+
+Minha trajetória profissional me permitiu desenvolver competências que hoje aplico diretamente no desenvolvimento de software. Atuei na área de tecnologia realizando análise de dados, monitoramento de pipelines, suporte a sistemas e resolução de incidentes. Também empreendi por mais de 10 anos, liderando equipes, gerenciando processos e desenvolvendo soluções para melhorar a experiência dos clientes e os resultados do negócio.
+
+Atualmente desenvolvo projetos próprios para aprimorar conhecimentos em Kotlin, Android SDK, XML, Material Design, ConstraintLayout, Intents, RecyclerView, consumo de APIs REST, arquitetura de aplicações, Git, GitHub e boas práticas de desenvolvimento.
+
+Tenho facilidade para aprender novas tecnologias, gosto de resolver problemas e acredito que software deve gerar valor para as pessoas.
+
+Busco oportunidade como Desenvolvedor Android para contribuir com uma equipe, evoluir tecnicamente e participar da construção de aplicações de alta qualidade.
 - 📫 email: cajosecarlosmendesdasilva@gmail.com
 - Telefone:(11)952507899
 
